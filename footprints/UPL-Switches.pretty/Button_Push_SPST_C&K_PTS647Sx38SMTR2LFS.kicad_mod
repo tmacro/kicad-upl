@@ -24,4 +24,9 @@
   (pad "1" smd roundrect (at 2.65 -1.6) (size 1.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 416f416b-803a-4f13-bf68-a05b8c192312))
   (pad "2" smd roundrect (at -2.65 1.6) (size 1.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 882f88d0-dee4-4c39-9794-678ac6e5378c))
   (pad "2" smd roundrect (at 2.65 1.6) (size 1.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 907932c9-b899-4942-8a8e-6fa39a743d97))
+  (model "${UPL_DIR}/3dmodels/UPL-Switches.3dshapes/PTS6470-Series.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
