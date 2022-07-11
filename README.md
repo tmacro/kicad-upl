@@ -14,6 +14,7 @@ Included parts:
 ### Connectors
 
 - MCR-B-S-RA-SMT-CS5A-NF-T/R - Micro USB receptacle
+- UP2-AH-1-TH - USB A male plug
 
 ### Misc
 
